@@ -1,0 +1,10 @@
+.my-header{
+    background-color: black;
+    color: white;
+}
+
+.app__header-h1{
+    text-transform: uppercase;
+    font-size: 90px;
+}
+
